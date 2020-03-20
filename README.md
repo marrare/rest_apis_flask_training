@@ -1,4 +1,4 @@
-# Rest Apis With Flask
+# Rest APIs With Flask
 
 this project is for training only.
 
